@@ -2,4 +2,4 @@
 
 #Video
 
-<img src="https://i.imgur.com/KKE3Xt7.mp4" width="300">
+<img src="https://i.imgur.com/KKE3Xt7.gif" width="300">
